@@ -1,7 +1,7 @@
 Olá! 👋
 
-Atualmente estou cursando Engenharia de Software. Sou um desenvolvedor de software apaixonado por tecnologia e programação, com foco principal em Python.
-Tenho experiência no desenvolvimento de aplicações utilizando Flask, criando soluções eficientes e escaláveis. Estou sempre em busca de aprender novas tecnologias, aprimorar minhas habilidades e contribuir para projetos inovadores.
+Software Developer apaixonado por tecnologia e programação, com foco principal em Python.
+Experiência no desenvolvimento de aplicações utilizando Flask, criando soluções eficientes e escaláveis. Estou sempre em busca de aprender novas tecnologias, aprimorar minhas habilidades e contribuir para projetos inovadores.
 
 🚀 Tecnologias:
 
