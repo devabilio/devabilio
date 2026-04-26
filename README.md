@@ -1,3 +1,13 @@
-## Hi there 👋
+Olá! 👋
 
-Um desenvolvedor em um ambiente escuro, com capuz, iluminado por luzes neon azul e roxa, código refletindo nos óculos, múltiplas telas ao fundo com linhas de programação, estilo cyberpunk, alto contraste, foco no rosto, arte digital detalhada, fundo desfocado
+Tenho 18 anos e atualmente estou cursando Engenharia de Software. Sou um desenvolvedor de software apaixonado por tecnologia e programação, com foco principal em Python.
+
+Tenho experiência no desenvolvimento de aplicações utilizando Flask, criando soluções eficientes e escaláveis. Estou sempre em busca de aprender novas tecnologias, aprimorar minhas habilidades e contribuir para projetos inovadores.
+
+🚀 Tecnologias e interesses:
+
+* Python
+* Flask
+* Desenvolvimento de Software
+
+Estou constantemente evoluindo como desenvolvedor!
