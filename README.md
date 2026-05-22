@@ -8,6 +8,10 @@ Experiência no desenvolvimento de aplicações utilizando Flask, criando soluç
 * Python
 * Flask
 * Desenvolvimento de Software
+* FastAPI
+* RestAPI
+* Css
+* Html
 
 Estou constantemente evoluindo como desenvolvedor!
 
