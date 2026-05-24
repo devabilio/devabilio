@@ -22,7 +22,6 @@ Estou em constante evolução, buscando dominar novas tecnologias e arquiteturas
 
 ### 🚀 Meus Principais Projetos
 
-*aqui você pode listar de 2 a 3 projetos principais. Exemplo:*
 - **[chat_support](https://github.com/devabilio/api_chat_atendimento):** API para controle de contatos/mensagens desenvolvida em FastAPI com integração de banco de dados).
 - **[flask_bank_system](https://github.com/devabilio/api-bancaria-flask):** Aplicação Web Bancaria em Flask para consultas de tarefas.
 
