@@ -23,8 +23,8 @@ Estou em constante evolução, buscando dominar novas tecnologias e arquiteturas
 ### 🚀 Meus Principais Projetos
 
 *aqui você pode listar de 2 a 3 projetos principais. Exemplo:*
-- **[Nome do Projeto 1](link-do-repositorio):** Descrição breve do que o projeto faz (ex: API para controle de estoque desenvolvida em FastAPI com integração de banco de dados).
-- **[Nome do Projeto 2](link-do-repositorio):** Aplicação Web em Flask para automação de tarefas cotidianas.
+- **[api_chat_atendimento](https://github.com/devabilio/api_chat_atendimento):** Descrição breve do que o projeto faz (ex: API para controle de estoque desenvolvida em FastAPI com integração de banco de dados).
+- ** [api-bancaria-flask](https://github.com/devabilio/api-bancaria-flask):** Aplicação Web Bancaria em Flask para consultas de tarefas.
 
 ---
 
