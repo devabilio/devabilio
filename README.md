@@ -24,7 +24,7 @@ Estou em constante evolução, buscando dominar novas tecnologias e arquiteturas
 ### 🚀 Meus Principais Projetos
 
 - **[chat_support](https://github.com/devabilio/api_chat_atendimento):** API para controle de contatos/mensagens desenvolvida em FastAPI com integração de banco de dados).
-- **[anime_ware](https://github.com/devabilio/anime_ware):** Desenvolvimento Web FullStack!.
+- **[anime_ware](https://github.com/devabilio/anime_ware):** Desenvolvimento Web FullStack !.
 
 ---
 
